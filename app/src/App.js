@@ -20,6 +20,8 @@ const App = () => {
   }, []);
 
   if (loading) {
+
+
     return <p>Loading...</p>;
   }
 
